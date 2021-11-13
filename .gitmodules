@@ -1,3 +1,12 @@
 [submodule "base-app"]
 	path = base-app
 	url = https://github.com/IgorCSilva/micro-app-base-app.git
+[submodule "micro-core"]
+	path = micro-core
+	url = https://github.com/IgorCSilva/micro-app-micro-core.git
+[submodule "micro-app-login"]
+	path = micro-app-login
+	url = https://github.com/IgorCSilva/micro-app-micro-app-login.git
+[submodule "micro-app-home"]
+	path = micro-app-home
+	url = https://github.com/IgorCSilva/micro-app-micro-app-home.git
