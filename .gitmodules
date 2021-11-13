@@ -10,3 +10,6 @@
 [submodule "micro-app-home"]
 	path = micro-app-home
 	url = https://github.com/IgorCSilva/micro-app-micro-app-home.git
+[submodule "micro-commons-design-system"]
+	path = micro-commons-design-system
+	url = https://github.com/IgorCSilva/micro-app-micro-commons-design-system.git
