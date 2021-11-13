@@ -1,0 +1,4 @@
+#Tue Nov 09 19:33:01 BRT 2021
+base.0=/home/igor/Documents/Codigar/Flutter/Projects/micro-apps/Project/base_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

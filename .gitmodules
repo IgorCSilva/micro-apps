@@ -7,3 +7,6 @@
 [submodule "Project/base-app"]
 	path = Project/base-app
 	url = https://github.com/IgorCSilva/micro-app-base-app.git
+[submodule "Project/micro-app-home"]
+	path = Project/micro-app-home
+	url = https://github.com/IgorCSilva/micro-app-micro-app-home.git
